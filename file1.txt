@@ -3,3 +3,4 @@ Second git file change
 third git file change
 Fourth change
 Fifth change added
+Added 1st change to cloned file1 
